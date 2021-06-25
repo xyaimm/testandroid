@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xyaimm.testandroid.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xyaimm.testandroid.MyBundle
 
 class MyApplicationService {
 
